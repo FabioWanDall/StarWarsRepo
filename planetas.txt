@@ -1,9 +1,4 @@
-Mercurio
-Plutão
-Saturno
-Barbearia
-Nostaugia
-Morgar
-Top
-Topssimo
-Topaço
+Planeta A
+Planeta B
+Planeta C
+Planeta D

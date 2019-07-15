@@ -1,11 +1,4 @@
-Ciro Godines
-Golias
-Beringela de Nazaré
-Dom Cabral
-Gabriel Medina
-Alt0A
-Alt0B
-Alt0C
-Alt01
-Alt02
-Alt03
+Personagem A
+Personagem B
+Personagem C
+Personagem D
